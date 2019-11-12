@@ -48,7 +48,7 @@ Reveal.addEventListener('competition', function () {
 });
 Reveal.addEventListener('jobs', function () {
 	console.log('stats called!');
-	animatenum(14950, '#jobscs', 0);
+	animatenum(14950, '#jobsgd', 0);
 });
 
 
