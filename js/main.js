@@ -54,7 +54,7 @@ Reveal.addEventListener('jobs', function () {
 
 Reveal.addEventListener('guage', function () {
 	console.log('guage called!');
-	guage(0, 60000,36900, "£36,900", "container-speedgc");
+	guage(0, 60000,36900, "£36,900", "container-speedgd");
 });
 Reveal.addEventListener('firmnum', function () {
 	console.log('graphs');
